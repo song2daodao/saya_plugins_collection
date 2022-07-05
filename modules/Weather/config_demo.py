@@ -4,7 +4,7 @@ from string import Template
 # https://dev.qweather.com/
 
 
-KEY = "1324567890abcdefg"
+KEY = "cab2bebeae2e41a3a0434a85d8a85697"
 CITY_URL = "https://geoapi.qweather.com/v2/city/lookup"
 WEATHER_URL = "https://devapi.qweather.com/v7/weather/"
 TIME = {
